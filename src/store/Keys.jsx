@@ -1,0 +1,4 @@
+export const GET_SEARCH_BOOKS = 'GET_SEARCH_BOOKS'
+export const GET_BOOK = 'GET_BOOK'
+export const GET_ALL_BOOKS = 'GET_ALL_BOOKS'
+export const REMOVE_SINGLE_BOOK = 'REMOVE_SINGLE_BOOK'
